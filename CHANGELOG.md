@@ -1,3 +1,20 @@
+<a name="0.1.6"></a>
+## [0.1.6](https://github.com/yelin2016/log2/compare/v0.1.5...v0.1.6) (2018-07-24)
+
+
+### Features
+
+* **local:** add a config ([c3ec360](https://github.com/yelin2016/log2/commit/c3ec360))
+
+
+### BREAKING CHANGESgit 
+
+* **local:** n
+
+n
+
+
+
 <a name="0.1.5"></a>
 ## [0.1.5](https://github.com/yelin2016/log2/compare/v0.1.4...v0.1.5) (2018-07-24)
 
