@@ -7,7 +7,7 @@
 * **local:** add a config ([c3ec360](https://github.com/yelin2016/log2/commit/c3ec360))
 
 
-### BREAKING CHANGESgit 
+### BREAKING CHANGESgit
 
 * **local:** n
 
