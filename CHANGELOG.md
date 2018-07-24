@@ -1,3 +1,13 @@
+<a name="0.1.7"></a>
+## [0.1.7](https://github.com/yelin2016/log2/compare/v0.1.6...v0.1.7) (2018-07-24)
+
+
+### Bug Fixes
+
+* fix a new bug ([299e141](https://github.com/yelin2016/log2/commit/299e141))
+
+
+
 <a name="0.1.6"></a>
 ## [0.1.6](https://github.com/yelin2016/log2/compare/v0.1.5...v0.1.6) (2018-07-24)
 
@@ -7,7 +17,7 @@
 * **local:** add a config ([c3ec360](https://github.com/yelin2016/log2/commit/c3ec360))
 
 
-### BREAKING CHANGESgit
+### BREAKING CHANGES
 
 * **local:** n
 
