@@ -1,3 +1,18 @@
+<a name="0.1.5"></a>
+## [0.1.5](https://github.com/yelin2016/log2/compare/v0.1.4...v0.1.5) (2018-07-24)
+
+
+### Bug Fixes
+
+* fix a bug ([7201cf0](https://github.com/yelin2016/log2/commit/7201cf0))
+
+
+### Features
+
+* add a function ([c43f76d](https://github.com/yelin2016/log2/commit/c43f76d))
+
+
+
 <a name="0.1.4"></a>
 ## [0.1.4](https://github.com/yelin2016/log2/compare/v0.1.3...v0.1.4) (2018-07-24)
 
