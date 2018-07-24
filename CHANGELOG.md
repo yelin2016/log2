@@ -1,3 +1,13 @@
+<a name="0.1.8"></a>
+## [0.1.8](https://github.com/yelin2016/log2/compare/v0.1.7...v0.1.8) (2018-07-24)
+
+
+### Bug Fixes
+
+* fix test2 ([cd00e00](https://github.com/yelin2016/log2/commit/cd00e00))
+
+
+
 <a name="0.1.7"></a>
 ## [0.1.7](https://github.com/yelin2016/log2/compare/v0.1.6...v0.1.7) (2018-07-24)
 
