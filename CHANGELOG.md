@@ -1,3 +1,14 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/yelin2016/log2/compare/v0.1.3...v0.1.4) (2018-07-24)
+
+
+### Features
+
+* add some word ([22cc960](https://github.com/yelin2016/log2/commit/22cc960))
+* add yelin ([6cdb3bd](https://github.com/yelin2016/log2/commit/6cdb3bd))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/yelin2016/log2/compare/v0.1.2...v0.1.3) (2018-07-24)
 
