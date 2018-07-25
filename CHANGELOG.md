@@ -1,6 +1,10 @@
 # [0.2.0](https://github.com/yelin2016/log2/compare/v0.1.9...v0.2.0) (2018-07-25)
 
 
+### style
+
+* test style ([7082d6004cc8f982d6a46a14f690a3bd0516a032](https://github.com/yelin2016/log2/commit/7082d6004cc8f982d6a46a14f690a3bd0516a032))
+
 
 
 ## [0.1.9](https://github.com/yelin2016/log2/compare/v0.1.7...v0.1.9) (2018-07-24)
