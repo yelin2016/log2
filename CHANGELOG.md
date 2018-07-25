@@ -1,5 +1,9 @@
-# [0.2.0](https://github.com/yelin2016/log2/compare/v0.1.9...v0.2.0) (2018-07-25)
+## [0.2.1](https://github.com/yelin2016/log2/compare/v0.1.9...v0.2.1) (2018-07-25)
 
+
+### feat
+
+* 新增一点内容 ([d97702d40dd1c27435e9ae35e6e7f555bd0bd896](https://github.com/yelin2016/log2/commit/d97702d40dd1c27435e9ae35e6e7f555bd0bd896))
 
 ### style
 
