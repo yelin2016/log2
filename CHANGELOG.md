@@ -1,5 +1,5 @@
 <a name="0.2.1"></a>
-## [0.2.1](https://github.com/yelin2016/log2/compare/v0.1.9...v0.2.1) (2018-07-25)
+## [0.2.1](https://github.com/yelin2016/log2/compare/v0.1.9...v0.2.1) (2018-07-30)
 
 
 ### Features
